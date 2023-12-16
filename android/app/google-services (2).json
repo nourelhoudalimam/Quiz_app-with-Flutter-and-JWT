@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818391468975",
+    "project_id": "jwtshare-86dbe",
+    "storage_bucket": "jwtshare-86dbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818391468975:android:2435b68b357516b015fd5a",
+        "android_client_info": {
+          "package_name": "com.example.crud_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9-DB5iOhW4yalm5CqiL252X2aOgv9M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818391468975:android:d3a6c82cc081de0215fd5a",
+        "android_client_info": {
+          "package_name": "com.example.my_jwtapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9-DB5iOhW4yalm5CqiL252X2aOgv9M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
