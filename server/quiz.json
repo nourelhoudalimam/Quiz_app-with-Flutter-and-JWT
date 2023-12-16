@@ -1,0 +1,277 @@
+{
+  "quizModel": [
+    {
+      "question": "Qu'est-ce que Flutter?",
+      "answers": [
+        "Un langage de programmation",
+        "Un framework de développement d'interface utilisateur",
+        "Une base de données"
+      ],
+      "correct": "Un framework de développement d'interface utilisateur"
+    },
+    {
+      "question": "Comment Flutter effectue-t-il le rendu des interfaces utilisateur?",
+      "answers": [
+        "Utilise le moteur de rendu Blink",
+        "Utilise le moteur de rendu Skia",
+        "Une base de données"
+      ],
+      "correct": "Utilise le moteur de rendu Skia"
+    },
+    {
+      "question": "Quelle est la langue de programmation principale de Flutter?",
+      "answers": [
+        "Java",
+        "Kotlin",
+        "Dart"
+      ],
+      "correct": "Dart"
+    },
+    {
+      "question": "Quel widget est utilisé pour créer une liste déroulante dans Flutter?",
+      "answers": [
+        "DropdownButton",
+        "SelectBox",
+        "ChoiceChips"
+      ],
+      "correct": "DropdownButton"
+    },
+    {
+      "question": "Comment pouvez-vous naviguer entre les écrans dans Flutter?",
+      "answers": [
+        "En utilisant Navigator",
+        "En utilisant PageController",
+        "En utilisant TabController"
+      ],
+      "correct": "En utilisant Navigator"
+    },
+    {
+      "question": "Comment Flutter gère-t-il l'état interne des widgets?",
+      "answers": [
+        "En utilisant le système de gestion d'état Redux",
+        "En utilisant un gestionnaire d'état externe comme Provider",
+        "En utilisant les gestionnaires d'état intégrés comme setState"
+      ],
+      "correct": "En utilisant les gestionnaires d'état intégrés comme setState"
+    },
+    {
+      "question": "Quel est l'objet principal qui contrôle l'ensemble de l'application Flutter?",
+      "answers": [
+        "MaterialApp",
+        "Scaffold",
+        "GlobalKey"
+      ],
+      "correct": "MaterialApp"
+    },
+    {
+      "question": "Comment Flutter gère-t-il la mise en page réactive?",
+      "answers": [
+        "En utilisant le modèle de boîte",
+        "En utilisant le modèle de disposition",
+        "En utilisant des médias de requête"
+      ],
+      "correct": "En utilisant le modèle de boîte"
+    },
+    {
+      "question": "Quelle commande Flutter est utilisée pour exécuter l'application sur un émulateur ou un appareil physique?",
+      "answers": [
+        "flutter install",
+        "flutter build",
+        "flutter run"
+      ],
+      "correct": "flutter run"
+    },
+    {
+      "question": "Quel widget est utilisé pour créer un bouton dans Flutter?",
+      "answers": [
+        "FlatButton",
+        "TextButton",
+        "ElevatedButton"
+      ],
+      "correct": "ElevatedButton"
+    }
+  ],
+  "score": [
+    {
+      "score": 90,
+      "id": 1
+    },
+    {
+      "score": 100,
+      "id": 2
+    },
+    {
+      "score": 20,
+      "datetime": "2023-11-29T15:40:30.436",
+      "id": 3
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-11-29T16:03:27.148",
+      "id": 4
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-11-30T10:45:18.925",
+      "id": 5
+    },
+    {
+      "score": 10,
+      "result": "Bad",
+      "datetime": "2023-12-01T12:09:25.975",
+      "id": 6
+    },
+    {
+      "score": 30,
+      "result": "Good",
+      "datetime": "2023-12-01T12:58:16.083",
+      "id": 7
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-12-01T15:50:21.601",
+      "id": 8
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-12-01T16:12:18.140",
+      "id": 9
+    },
+    {
+      "score": 60,
+      "result": "Excellent",
+      "datetime": "2023-12-01T19:40:29.857",
+      "id": 10
+    },
+    {
+      "score": 90,
+      "result": "Excellent",
+      "datetime": "2023-12-02T14:36:07.163",
+      "id": 11
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-12-02T15:43:31.468",
+      "id": 12
+    },
+    {
+      "score": 80,
+      "result": "Excellent",
+      "datetime": "2023-12-02T16:37:06.897",
+      "id": 13
+    },
+    {
+      "score": 100,
+      "result": "Excellent",
+      "datetime": "2023-12-02T16:53:27.138",
+      "id": 14
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-12-02T18:00:27.557",
+      "id": 15
+    },
+    {
+      "score": 90,
+      "result": "Excellent",
+      "datetime": "2023-12-02T18:34:12.707",
+      "id": 16
+    },
+    {
+      "score": 40,
+      "result": "Good",
+      "datetime": "2023-12-02T18:40:44.632",
+      "id": 17
+    },
+    {
+      "score": 60,
+      "result": "Excellent",
+      "datetime": "2023-12-02T18:49:31.482",
+      "id": 18
+    },
+    {
+      "score": 60,
+      "result": "Excellent",
+      "datetime": "2023-12-02T19:02:53.683",
+      "id": 19
+    },
+    {
+      "score": 20,
+      "result": "Bad",
+      "datetime": "2023-12-02T19:28:00.943",
+      "id": 20
+    },
+    {
+      "score": 70,
+      "result": "Excellent",
+      "datetime": "2023-12-02T19:39:45.493",
+      "id": 21
+    },
+    {
+      "score": 90,
+      "result": "Excellent",
+      "datetime": "2023-12-02T19:54:47.168",
+      "id": 22
+    },
+    {
+      "score": 30,
+      "result": "Bad",
+      "datetime": "2023-12-02T20:05:03.472",
+      "id": 23
+    },
+    {
+      "score": 50,
+      "result": "Good",
+      "datetime": "2023-12-02T20:38:50.513",
+      "id": 24
+    },
+    {
+      "score": 30,
+      "result": "Bad",
+      "datetime": "2023-12-02T20:55:40.197",
+      "id": 25
+    },
+    {
+      "score": 50,
+      "result": "Good",
+      "datetime": "2023-12-02T21:09:17.518",
+      "id": 26
+    },
+    {
+      "score": 40,
+      "result": "Good",
+      "datetime": "2023-12-02T21:19:19.090",
+      "id": 27
+    },
+    {
+      "score": 50,
+      "result": "Good",
+      "datetime": "2023-12-03T02:10:50.057",
+      "id": 28
+    },
+    {
+      "score": 30,
+      "result": "Bad",
+      "datetime": "2023-12-03T12:47:29.236",
+      "id": 29
+    },
+    {
+      "score": 60,
+      "result": "Excellent",
+      "datetime": "2023-12-03T13:41:35.698",
+      "id": 30
+    },
+    {
+      "score": 40,
+      "result": "Good",
+      "datetime": "2023-12-03T18:09:28.065",
+      "id": 31
+    }
+  ]
+}
